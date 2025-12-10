@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "ZzNnWn's OneDrive",
+  title: "雪千舟's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/onemanager_public',
@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/zznnwn🌞', '/soeasy'],
+  protectedRoutes: ['/雪千舟🌞', '/soeasy'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:spencer.wushangbo@gmail.com',
@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: '博客',
-      link: 'https://wn-apple-teawine.fun/',
+      name: '雪千舟的博客',
+      link: 'https://sunlight.zznnwn.cloudns.biz/',
     },
   ],
 
